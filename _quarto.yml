@@ -21,8 +21,8 @@ website:
     contents:
       - section: "Home"
         contents:
-          - NHP_model_summary.qmd
-          - plan_and_summary.qmd
+          - user_guide/NHP_model_summary.qmd
+          - project_plan_and_summary/plan_and_summary.qmd
       - section: "User guide"
         contents:
           auto: user_guide/*
