@@ -19,9 +19,10 @@ website:
     search: true
     collapse-level: 1
     contents:
-      - section: "Project overview"
+      - section: "Home"
         contents:
-          auto: project_plan_and_summary/*
+          - NHP_model_summary.qmd
+          - plan_and_summary.qmd
       - section: "User guide"
         contents:
           auto: user_guide/*
